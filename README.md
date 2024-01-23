@@ -1,6 +1,16 @@
-# flutter_adspark
+<p align="center">
+<a href="https://github.com/FlutterAds"><img src="https://raw.githubusercontent.com/FlutterAds/site/master/logo/flutterads_logo.png" alt="logo"/></a>
+</p>
+<h3 align="center">flutter_adspark</h3>
+<h5 align="center">一款优质的广告监测、增长分析、归因上报、事件管理插件（巨量广告、穿山甲）</h5>
 
-Flutter 版的 AdSpark 主要功能广告监测、增长分析、归因上报、事件管理(巨量引擎、巨量广告、穿山甲)
+<p align="center">
+<a href="https://pub.dev/packages/flutter_adspark"><img src=https://img.shields.io/badge/version-v1.1.0-success></a>
+<a href="https://github.com/FlutterAds/flutter_adspark"><img src=https://img.shields.io/badge/platform-iOS%20%7C%20Android-brightgreen></a>
+</p>
+<p align="center">
+<a href="https://flutterads.github.io/site/"><img src="https://raw.githubusercontent.com/FlutterAds/.github/main/gromore_pro_site.png" alt="gromore"/></a>
+</p>
 
 ## 支持平台
 
@@ -41,7 +51,7 @@ dependencies:
 
 |功能区|事件区|日志区|网络区|
 |--|--|--|--|
-| ![](example/images/img001.png) | ![](example/images/img002.png) | ![](example/images/img003.png) | ![](example/images/img004.png) |
+| ![](https://raw.githubusercontent.com/FlutterAds/flutter_adspark/master/example/images/img001.png) | ![]([example/images/img00](https://raw.githubusercontent.com/FlutterAds/flutter_adspark/master/example/images/img00)2.png) | ![](https://raw.githubusercontent.com/FlutterAds/flutter_adspark/master/example/images/img003.png) | ![](https://raw.githubusercontent.com/FlutterAds/flutter_adspark/master/example/images/img004.png) |
 
 
 ## 使用方法
@@ -134,4 +144,13 @@ class GrownEventType {
 ## 关于项目
 
 - 开发者：[FlutterAds(致力于构建优质的 Flutter 广告插件)](https://github.com/FlutterAds)
-- 此版本没有具体功能，[获取 Pro 版本完整功能](https://flutterads.github.io/site/)
+- 此版本没有功能，[Pro 版本才具有完整功能](https://flutterads.github.io/site/)
+
+## FlutterAds 广告插件系列
+|插件|描述|
+|-|-|
+|[flutter_gromore_pro](https://flutterads.github.io/site/)|🏆🏆🏆 帮你大幅提升广告收益，发挥出最大的用户价值|
+|[flutter_gromore_ads](https://github.com/FlutterAds/flutter_gromore_ads)|字节跳动、穿山甲、GroMore 聚合 Flutter 广告开源版插件|
+|[flutter_pangle_ads](https://github.com/FlutterAds/flutter_pangle_ads)|字节跳动、穿山甲 Flutter 广告插件|
+|[flutter_qq_ads](https://github.com/FlutterAds/flutter_qq_ads)|腾讯广告、广点通、优量汇 Flutter 广告插件|
+|[flutter_adspark](https://github.com/FlutterAds/flutter_adspark)|巨量广告/穿山甲的广告监测、增长分析、归因上报、事件管理 Flutter 版插件|
