@@ -1,5 +1,3 @@
-import 'dart:io';
-
 import 'package:flutter/material.dart';
 import 'dart:async';
 
@@ -16,13 +14,7 @@ void main() {
 
 /// 初始化
 Future<void> init() async {
-  bool? result;
-  if (Platform.isAndroid) {
-    result = await FlutterAdspark.init("379054", "huawei");
-  } else {
-    result = await FlutterAdspark.init("302118", "AppStore");
-  }
-  // bool? result = await FlutterAdspark.init("544828", "huawei");
+  bool? result = await FlutterAdspark.init("appid", "huawei");
   print("FlutterAdspark init result: $result");
 }
 
@@ -88,8 +80,11 @@ class _MyAppState extends State<MyApp> {
                   kSizedBox10,
                   kSizedBox10,
                   const Center(
+                      child: Text("FlutterAds (致力于构建优质的 Flutter 广告插件)")),
+                  kSizedBox10,
+                  const Center(
                       child: Text(
-                          "by FlutterAds：https://github.com/FlutterAds/flutter_adspark")),
+                          "https://github.com/FlutterAds/flutter_adspark")),
                 ],
               ),
             ),
