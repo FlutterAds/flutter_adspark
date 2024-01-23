@@ -1,7 +1,7 @@
 <p align="center">
 <a href="https://github.com/FlutterAds"><img src="https://raw.githubusercontent.com/FlutterAds/site/master/logo/flutterads_logo.png" alt="logo"/></a>
 </p>
-<h3 align="center">flutter_adspark</h3>
+<h3 align="center">Flutter Adspark</h3>
 <h5 align="center">一款优质的广告监测、增长分析、归因上报、事件管理插件（巨量广告、穿山甲）</h5>
 
 <p align="center">
@@ -35,6 +35,20 @@
 - ✅ 自定义事件
 - 📱 可视化测试助手
 
+## 可视化测试助手
+
+> 为了方便开发者调试，提供了可视化助手，方便开发者查看数据上报情况
+
+|功能区|事件区|日志区|网络区|
+|--|--|--|--|
+| ![](https://raw.githubusercontent.com/FlutterAds/flutter_adspark/master/example/images/img001.png) | ![]([example/images/img00](https://raw.githubusercontent.com/FlutterAds/flutter_adspark/master/example/images/img00)2.png) | ![](https://raw.githubusercontent.com/FlutterAds/flutter_adspark/master/example/images/img003.png) | ![](https://raw.githubusercontent.com/FlutterAds/flutter_adspark/master/example/images/img004.png) |
+
+
+## 获取 Pro 版
+
+- Pro 版本 =「插件包」+「技术支持」+「答疑咨询」
+- 开源版本没有功能，[点击 Pro 版本才具有完整功能](https://flutterads.github.io/site/)
+
 ## 开始接入
 
 > 在项目根目录下新建一个 'plugins' 文件夹，将我提供 'flutter_adspark.zip' 压缩包解压至此文件夹
@@ -45,13 +59,6 @@ dependencies:
     path: plugins/flutter_adspark # 本地引入
 ```
 
-## 可视化测试助手
-
-> 为了方便开发者调试，提供了可视化助手，方便开发者查看数据上报情况
-
-|功能区|事件区|日志区|网络区|
-|--|--|--|--|
-| ![](https://raw.githubusercontent.com/FlutterAds/flutter_adspark/master/example/images/img001.png) | ![]([example/images/img00](https://raw.githubusercontent.com/FlutterAds/flutter_adspark/master/example/images/img00)2.png) | ![](https://raw.githubusercontent.com/FlutterAds/flutter_adspark/master/example/images/img003.png) | ![](https://raw.githubusercontent.com/FlutterAds/flutter_adspark/master/example/images/img004.png) |
 
 
 ## 使用方法
@@ -141,10 +148,6 @@ class GrownEventType {
 - [穿山甲～iOS](https://bytedance.larkoffice.com/wiki/YcpCwVKdFi0VUxk4EAjc6TuJnre)
 - [巨量广告～文档](https://event-manager.oceanengine.com/docs/8650/195169)
 
-## 关于项目
-
-- 开发者：[FlutterAds(致力于构建优质的 Flutter 广告插件)](https://github.com/FlutterAds)
-- 此版本没有功能，[Pro 版本才具有完整功能](https://flutterads.github.io/site/)
 
 ## FlutterAds 广告插件系列
 |插件|描述|
