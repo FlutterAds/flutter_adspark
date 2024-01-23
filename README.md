@@ -5,7 +5,7 @@
 <h5 align="center">一款优质的广告监测、增长分析、归因上报、事件管理插件（巨量广告、穿山甲）</h5>
 
 <p align="center">
-<a href="https://pub.dev/packages/flutter_adspark"><img src=https://img.shields.io/badge/version-v1.1.0-success></a>
+<a href="https://pub.dev/packages/flutter_adspark"><img src=https://img.shields.io/badge/version-v1.1.1-success></a>
 <a href="https://github.com/FlutterAds/flutter_adspark"><img src=https://img.shields.io/badge/platform-iOS%20%7C%20Android-brightgreen></a>
 </p>
 <p align="center">
