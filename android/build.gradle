@@ -1,0 +1,42 @@
+group 'com.zero.flutter_adspark'
+version '1.0'
+
+buildscript {
+    repositories {
+        google()
+        mavenCentral()
+        maven {
+            url 'https://artifact.bytedance.com/repository/Volcengine/'
+        }
+    }
+
+    dependencies {
+        classpath 'com.android.tools.build:gradle:4.1.0'
+    }
+}
+
+rootProject.allprojects {
+    repositories {
+        google()
+        mavenCentral()
+        maven {
+            url 'https://artifact.bytedance.com/repository/Volcengine/'
+        }
+    }
+}
+
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 31
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    defaultConfig {
+        minSdkVersion 16
+    }
+}
+
