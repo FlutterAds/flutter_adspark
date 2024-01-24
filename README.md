@@ -1,7 +1,7 @@
 <p align="center">
 <a href="https://github.com/FlutterAds"><img src="https://raw.githubusercontent.com/FlutterAds/site/master/logo/flutterads_logo.png" alt="logo"/></a>
 </p>
-<h3 align="center">Flutter Adspark</h3>
+<h3 align="center">Flutter AdSpark</h3>
 <h5 align="center">一款优质的广告监测、增长分析、归因上报、事件管理插件（巨量广告、穿山甲）</h5>
 
 <p align="center">
@@ -156,3 +156,15 @@ class GrownEventType {
 |[flutter_pangle_ads](https://github.com/FlutterAds/flutter_pangle_ads)|字节跳动、穿山甲 Flutter 广告插件|
 |[flutter_qq_ads](https://github.com/FlutterAds/flutter_qq_ads)|腾讯广告、广点通、优量汇 Flutter 广告插件|
 |[flutter_adspark](https://github.com/FlutterAds/flutter_adspark)|巨量广告/穿山甲的广告监测、增长分析、归因上报、事件管理 Flutter 版插件|
+
+## 💬 App 广告变现群
+
+- 插件问题解答
+- 变现玩法交流
+- 收益提升探讨
+- 大盘趋势推送
+- 版本更新推送
+
+> 因微信群入群限制，请添加个人微信备注：`变现群`，我拉你进群。
+
+<img src="https://flutterads.github.io/site/wechat.webp" alt="wechat:toponelan" width="160"/>
