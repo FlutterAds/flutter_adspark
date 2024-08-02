@@ -4,7 +4,7 @@
 #
 Pod::Spec.new do |s|
   s.name             = 'flutter_adspark'
-  s.version          = '1.1.1'
+  s.version          = '1.1.2'
   s.summary          = 'Flutter 版的 AdSpark 主要功能广告监测、增长分析、归因上报、事件管理(巨量引擎、巨量广告、穿山甲)'
   s.description      = <<-DESC
   Flutter 版的 AdSpark 主要功能广告监测、增长分析、归因上报、事件管理(巨量引擎、巨量广告、穿山甲)
