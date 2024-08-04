@@ -5,7 +5,7 @@ repository: https://github.com/FlutterAds/flutter_adspark
 issue_tracker: https://github.com/FlutterAds/flutter_adspark/issues
 homepage: https://flutterads.top
 documentation: https://flutterads.top/start/guide/adspark/install.html
-topics: [flutterads, ads, gromore, adspark, 广告监测, 穿山甲]
+topics: [flutterads, ads, gromore, adspark, income]
 funding: [https://github.com/FlutterAds/.github]
 
 environment:
