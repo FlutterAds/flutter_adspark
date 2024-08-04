@@ -15,7 +15,7 @@ void main() {
 /// 初始化
 Future<void> init() async {
   bool? result = await FlutterAdspark.init("appid", "huawei");
-  print("FlutterAdspark init result: $result");
+  debugPrint("FlutterAdspark init result: $result");
 }
 
 class MyApp extends StatefulWidget {

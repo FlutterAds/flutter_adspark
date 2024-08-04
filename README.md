@@ -1,13 +1,19 @@
 <h1 align="center">Flutter AdSpark Pro</h1>
 <h5 align="center">一款优质的广告监测、增长分析、归因上报、事件管理插件（巨量广告、穿山甲）</h5>
 
+
 <p align="center">
 <a href="https://pub.dev/packages/flutter_adspark">
 <img src="https://img.shields.io/pub/v/flutter_adspark?logo=dart"/>
-<img src="https://img.shields.io/badge/OS-iOS%20%7C%20Android-blue?logo=preact"/> 
+<img src="https://img.shields.io/badge/OS-iOS%20%7C%20Android-blue?logo=preact"/>
 </a>
-<a href="https://flutterads.top">
-<img src="https://img.shields.io/badge/Pro-v1.2.1-success?logo=flutter&logoColor=FFD700"/>
+<a href="https://github.com/FlutterAds/flutter_adspark">
+<img src="https://github.com/FlutterAds/flutter_adspark/actions/workflows/flutter.yml/badge.svg">
+<img src=https://img.shields.io/github/stars/FlutterAds/flutter_adspark?color=brightgreen>
+</a>
+<a href="https://flutterads.top/">
+<img src="https://img.shields.io/badge/Pro-v3.5.0-success?logo=flutter&logoColor=FFD700"/>
+<a href="https://flutterads.top/">
 <img src="https://img.shields.io/badge/Site-FlutterAds-success?logo=webtrees&logoColor=FFD700"/>
 </a>
 </p>
@@ -16,6 +22,7 @@
 <img src="https://raw.githubusercontent.com/FlutterAds/.github/main/gromore_pro_site.png" alt="gromore"/>
 </a>
 </p>
+
 
 ## 💻 支持平台
 
