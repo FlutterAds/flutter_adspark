@@ -22,27 +22,20 @@ import io.flutter.plugin.common.MethodChannel.Result;
 /**
  * FlutterAdsparkPlugin
  */
-public class FlutterAdsparkPlugin implements FlutterPlugin, MethodCallHandler, ActivityAware {
+public class FlutterAdsparkPlugin implements FlutterPlugin, MethodCallHandler {
     private final String TAG = FlutterAdsparkPlugin.class.getSimpleName();
     // 方法通道
     private MethodChannel methodChannel;
-    // 当前 Activity
-    public Activity activity;
-    // 插件连接器
-    private FlutterPluginBinding bind;
 
     @Override
     public void onAttachedToEngine(@NonNull FlutterPluginBinding flutterPluginBinding) {
-        bind = flutterPluginBinding;
         methodChannel = new MethodChannel(flutterPluginBinding.getBinaryMessenger(), "flutter_adspark");
         methodChannel.setMethodCallHandler(this);
     }
 
     @Override
     public void onMethodCall(@NonNull MethodCall call, @NonNull Result result) {
-        String method = call.method;
-        Log.d(TAG, "MethodChannel onMethodCall method:" + method + " arguments:" + call.arguments);
-        if (method.equals("getPlatformVersion")) {
+        if (call.method.equals("getPlatformVersion")) {
             result.success("Android " + android.os.Build.VERSION.RELEASE);
         } else {
             result.notImplemented();
