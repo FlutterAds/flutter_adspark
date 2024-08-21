@@ -51,7 +51,7 @@
 
 > 为了方便开发者调试，提供了可视化助手，方便开发者查看数据上报情况
 
-|示例接口|功能区|事件区|网络区|
+|功能接口|功能区|事件区|网络区|
 |--|--|--|--|
 | <img width=750 src="https://flutterads.top/imgs/adspark/img_01.png"/>|<img width=750 src="https://flutterads.top/imgs/adspark/img_test1.png"/>| <img width=750 src="https://flutterads.top/imgs/adspark/img_test3.png"/> | <img width=750 src="https://flutterads.top/imgs/adspark/img_test4.png"/> |
 
