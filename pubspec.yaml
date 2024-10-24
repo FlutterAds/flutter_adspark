@@ -1,6 +1,6 @@
 name: flutter_adspark
 description: Flutter 版的 AdSpark 主要功能广告监测、增长分析、归因上报、事件管理(巨量引擎、巨量广告、穿山甲)
-version: 1.1.3
+version: 1.1.4
 repository: https://github.com/FlutterAds/flutter_adspark
 issue_tracker: https://github.com/FlutterAds/flutter_adspark/issues
 homepage: https://flutterads.top

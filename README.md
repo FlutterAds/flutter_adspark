@@ -1,5 +1,6 @@
 <h1 align="center">Flutter AdSpark Pro</h1>
 <h5 align="center">一款优质的广告监测、增长分析、归因上报、事件管理插件（巨量广告、穿山甲）</h5>
+<p align="center">♻️ 持续更新 ♻️</p>
 
 
 <p align="center">
@@ -12,7 +13,7 @@
 <img src=https://img.shields.io/github/stars/FlutterAds/flutter_adspark?color=brightgreen>
 </a>
 <a href="https://flutterads.top/">
-<img src="https://img.shields.io/badge/Pro-v3.5.0-success?logo=flutter&logoColor=FFD700"/>
+<img src="https://img.shields.io/badge/Pro-v3.7.1-success?logo=flutter&logoColor=FFD700"/>
 <a href="https://flutterads.top/">
 <img src="https://img.shields.io/badge/Site-FlutterAds-success?logo=webtrees&logoColor=FFD700"/>
 </a>
